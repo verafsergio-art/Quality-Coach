@@ -1,0 +1,5 @@
+{
+  "name": "Quality Coach",
+  "description": "Plataforma para el registro y seguimiento de errores críticos en monitoreo de calidad, incluyendo feedback de supervisores y compromisos de asesores.",
+  "requestFramePermissions": []
+}
